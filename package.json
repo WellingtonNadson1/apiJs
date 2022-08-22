@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "apijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "2.0.19",
+    "nvm": "^0.0.4"
+  }
+}
